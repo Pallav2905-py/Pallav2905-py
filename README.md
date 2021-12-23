@@ -1,4 +1,4 @@
-- 👋 Hi, I’m pallav
+- 👋 Hi, I’m <b><i>pallav</i></b>
 - 👀 I’m interested in <b>AI, ML, WebDevelopment, Backend, Frontend, Cloud-Computing</b>
 - 🌱 I can code in <b>HTML, CSS, JavaScript, Django, Python</b>
 - 🌱 I'm learning <b>React-Native, C++, OpenCV[Python], Tenserflow[Python]</b>
