@@ -6,5 +6,5 @@
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me [Email- pallav.dev@outlook.com]
 - <img src="https://github-readme-stats.vercel.app/api?username=pallav2905-py&&show_icons=true">
-- <img src="https://www.sololearn.com/Certificate/1014-24272719/jpg" height="300" width="300>
+- <img src="https://www.sololearn.com/Certificate/1014-24272719/jpg" height="300" width="300">
 
