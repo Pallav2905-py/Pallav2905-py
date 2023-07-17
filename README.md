@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b><i>pallav</i></b>
-- 👀 I’m interested in <b>AI, ML,ComputerVision, WebDevelopment, Cloud-Computing, Wed-Scraping & Data Analysis</b>
+- 👀 I’m interested in <b>AI, ML,ComputerVision, WebDevelopment, Cloud-Computing, Web-Scraping & Data Analysis</b>
 - 🌱 I can code in <b>HTML, CSS, JavaScript, Django, Python</b>
 - 🌱 I'm learning <b>React-Native, C++, OpenCV[Python], Tenserflow[Python]</b>
 - 📫 I know Technologies like <b>Git, GitHub, AWS, Linode, Linux, GoogleCloud, Heroku[CLI]</b>
