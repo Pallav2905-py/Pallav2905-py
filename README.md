@@ -20,12 +20,14 @@
 [![GIT](https://img.shields.io/badge/-Git-grey?logo=git)](#)
 [![React](https://img.shields.io/badge/-React-darkblue?logo=react)](#)
 
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=pallav2905-py">
+
 - 👋 Hi, I’m <b><i>pallav</i></b>
 - 👀 I’m interested in <b>AI, ML,ComputerVision, WebDevelopment, Cloud-Computing, Web-Scraping & Data Analysis</b>
 - 🌱 I can code in <b>HTML, CSS, JavaScript, Django, Python</b>
 - 🌱 I'm learning <b>React, C++, OpenCV[Python], Tenserflow[Python]</b>
 - 📫 I know Technologies like <b>Git, GitHub, Linode, Linux</b>
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me [Email- pallav.dev@outlook.com]
-- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pallav2905-py">
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:mo.shakib.official@gmail.com)
+
 
