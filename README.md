@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Turning+coffee+into+elegant+lines+of+code;Welcome+to+my+GitHub+profile+😇;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Turning+coffee+into+elegant+lines+of+code+ ;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;"></a>
 </p>
 
 
@@ -18,7 +18,6 @@
 [![OpenCV](https://img.shields.io/badge/-OpenCV-yellow?logo=opencv)](#)
 [![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)](#)
 [![GIT](https://img.shields.io/badge/-Git-grey?logo=git)](#)
-[![NodeJs]()]
 [![React](https://img.shields.io/badge/-React-darkblue?logo=react)](#)
 
 - 👋 Hi, I’m <b><i>pallav</i></b>
@@ -28,5 +27,5 @@
 - 📫 I know Technologies like <b>Git, GitHub, Linode, Linux</b>
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me [Email- pallav.dev@outlook.com]
-- <img src="https://github-readme-stats.vercel.app/api?username=pallav2905-py&&show_icons=true">
+- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pallav2905-py">
 
