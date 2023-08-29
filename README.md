@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Turning+coffee+into+elegant+lines+of+code+ ;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Welcome+to+my+GitHub+profile+😇;Turning+coffee+into+elegant+lines+of+code;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;"></a>
 </p>
 
 
@@ -28,6 +28,6 @@
 - 🌱 I'm learning <b>React, C++, OpenCV[Python], Tenserflow[Python]</b>
 - 📫 I know Technologies like <b>Git, GitHub, Linode, Linux</b>
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:mo.shakib.official@gmail.com)
+- 📫 How to reach me [![OutLook Badge](https://img.shields.io/badge/-Outlook-D14836?logo=microsoft&logoColor=blue)](mailto:pallav.dev@outlook.com)
 
 
