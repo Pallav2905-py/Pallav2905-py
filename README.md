@@ -20,6 +20,8 @@
 [![GIT](https://img.shields.io/badge/-Git-grey?logo=git)](#)
 [![React](https://img.shields.io/badge/-React-darkblue?logo=react)](#)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pallav2905-py&theme=dark&hide_border=true&border_radius=11.8&hide_current_streak=true)](https://git.io/streak-stats)
+
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=pallav2905-py">
 
 - 👋 Hi, I’m <b><i>pallav</i></b>
